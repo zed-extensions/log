@@ -1,8 +1,8 @@
 (trace) @hint
 (debug) @label
-(info) @info
-(warn) @warning
-(error) @error
+(info) @hint.info
+(warn) @constant.warning
+(error) @keyword.error
 
 (year_month_day) @keyword
 (time) @constant
